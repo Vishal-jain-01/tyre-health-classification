@@ -1,8 +1,6 @@
 flask
+onnxruntime==1.18.0
 numpy
 pillow
-gunicorn==22.0.0
 opencv-python-headless
-scikit-image
-tensorflow-cpu==2.16.1  # If using TF
-# or torch, for PyTorch users
+gunicorn==22.0.0
