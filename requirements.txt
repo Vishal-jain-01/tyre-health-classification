@@ -1,0 +1,6 @@
+flask
+onnxruntime
+pillow
+numpy
+gunicorn
+cv2
