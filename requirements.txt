@@ -1,5 +1,5 @@
 flask
-onnxruntime==1.18.0
+onnxruntime==1.23.2
 numpy
 pillow
 opencv-python-headless
